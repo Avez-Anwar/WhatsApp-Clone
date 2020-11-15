@@ -1,0 +1,8 @@
+.chat {
+  flex: 0.75;
+}
+
+.chat__header {
+  display: flex;
+  padding: 20px;
+}
